@@ -1,0 +1,1 @@
+bot leak database from discord using ai 2 type bot.py prototype and bot2.py final so is good 👍
