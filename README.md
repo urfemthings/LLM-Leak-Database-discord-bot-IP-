@@ -1,1 +1,1 @@
-bot leak database from discord using ai 2 type bot.py using ai so is prototype and bot2.py final safe and no ai so is good 👍
+bot leak database from discord using ai 2 type bot.py using ai so is prototype and bot2.py final safe and with ai so is good 👍
