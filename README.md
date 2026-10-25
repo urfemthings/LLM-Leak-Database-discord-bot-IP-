@@ -45,6 +45,6 @@ Dengan LLM, user dapet:
 - Apakah password reuse berbahaya
 - Langkah mitigasi: ganti password, aktifkan 2FA, cek haveibeenpwned
 
-##  Security Issue di Code Saat Ini (Penting buat Portfolio)
+##  Security Issue di Code Saat Ini
 
     f"{str(leak_data)}" # berisi password mentah
